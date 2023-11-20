@@ -1,9 +1,15 @@
-Olá amigos.
+# Sistema de banco Digital
 
-Nesse repositório vou estar adicionando e atualizando um sistema que me veio na mente para praticar kkkk.
+Olá.
 
-Será algo como um sistema de banco, com pagamentos, transferências e afins. (Tudo meramente simplório, nada funcional realmente, só para funcionar dentro dele e praticar)
+Esse código faz parte de um exercício proposto no curso de Java Developer da plataforma Dio.
+
+Usei o código base deles que pode ser encontrado nesse link <https://github.com/falvojr/lab-banco-digital-oo>
+e fiz algumas mudanças e pequenas melhorias.
+
+Pretendo continuar atualizando esse código e fazê-lo cada vez melhor.
 
 Peço desculpas por algum erro grotesco ou iniciante no código, realmente estou ainda iniciando no Java mas com muita vontade de aprender e trabalhar com a linguagem!
 
-Obrigado S2.
+Obrigado ❤️.
+
